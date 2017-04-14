@@ -464,3 +464,26 @@ img.img-circle.team-img {
 	padding: 9px;
 	color: #F2F2F2;
 }
+
+.contact-us {
+	background: rgba(0, 0, 0, 0.5);
+	padding-bottom: 95px;
+}
+.contact-us .input-box, textarea {
+	width: 100%;
+	margin: auto;
+	margin-bottom: 20px;
+
+}
+.contact-us .custom-button {
+	float: right;
+}
+
+.success,
+.error {
+    display: none;
+}
+
+.contact-us {
+	padding-top: 100px;
+}
