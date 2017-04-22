@@ -467,7 +467,8 @@ img.img-circle.team-img {
 
 .contact-us {
 	background: rgba(0, 0, 0, 0.5);
-	padding-bottom: 95px;
+  
+  padding-bottom: 95px;
 }
 .contact-us .input-box, textarea {
 	width: 100%;
